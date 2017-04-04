@@ -1,1 +1,1 @@
-### Homework code for Bayesian Machine Learning
+# Code for Bayesian Machine Learning homeworks
